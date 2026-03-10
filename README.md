@@ -66,7 +66,7 @@ A reusable authentication module supporting **JWT, OAuth2, multi-factor authenti
 ## 📬 Connect With Me
 
 * 🌐 **LinkedIn:** *([https://www.linkedin.com/in/mourad-zerbane/](https://www.linkedin.com/in/mourad-zerbane/))*
-* 💼 **GitHub:** *([https://github.com/MouradPy](https://github.com/MouradPy))*
+* 💼 **GitHub:** *([https://github.com/MouradPy](https://github.com/Mouradzerbane))*
 * 📝 Portfolio Website: *Coming Soon*
 
 ---
