@@ -27,7 +27,8 @@ I'm a passionate **Software Engineer & Web Developer** with experience in **Java
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## 💻 Featured Complex Projects
-*([https://github.com/mouradzerbane](mouradzerbane/mouradzerbane.github.io))*
+
+## 💻 my latest project Projects
 (https://mouradzerbane.github.io/EasycomeApp))*
 
 ### 🌐 Enterprise Task Management System (Java Spring)
