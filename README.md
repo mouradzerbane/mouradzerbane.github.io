@@ -28,7 +28,7 @@ I'm a passionate **Software Engineer & Web Developer** with experience in **Java
 
 ## 💻 Featured Complex Projects
 
-## 💻 my latest project Projects
+## 💻 Coming soon ... Project
 (https://mouradzerbane.github.io/EasycomeApp))*
 
 ### 🌐 Enterprise Task Management System (Java Spring)
