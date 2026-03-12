@@ -35,37 +35,37 @@ I'm a passionate **Software Engineer & Web Developer** with experience in **Java
 
 A large-scale web application for **task scheduling, role-based user management, notifications, and analytics dashboards** for corporate teams.
 **Tech:** Java Spring Boot, Hibernate, Thymeleaf, MySQL, REST API, Bootstrap, Docker
-**🔗 Repo:** *(add GitHub repo link)*
+**🔗 Repo:** 
 
 ### 🤖 AI-Powered Sentiment Analysis Tool
 
 A Python-based AI project analyzing social media posts and customer reviews using **NLP, machine learning, and data visualization**.
 **Tech:** Python, scikit-learn, Pandas, NLTK, Matplotlib
-**🔗 Repo:** *(add GitHub repo link)*
+**🔗 Repo:** 
 
 ### 📈 Stock Price Prediction App
 
 An advanced data science project predicting stock prices with **time series analysis, LSTM neural networks, and performance dashboards**.
 **Tech:** Python, TensorFlow/Keras, Pandas, Matplotlib, Flask
-**🔗 Repo:** *(add GitHub repo link)*
+**🔗 Repo:** 
 
 ### 🛠 Automation & Productivity Scripts Collection
 
 A set of Python and Bash scripts for **workflow automation, file management, and data scraping**. Focused on efficiency and scalability.
 **Tech:** Python, Bash, Selenium, Requests
-**🔗 Repo:** *(add GitHub repo link)*
+**🔗 Repo:** 
 
 ### 🌉 IoT Home Automation System
 
 A connected system that **monitors and controls home appliances**, integrates **sensor data analysis**, and provides a mobile dashboard.
 **Tech:** Arduino, Raspberry Pi, Python, MQTT, React Native
-**🔗 Repo:** *(add GitHub repo link)*
+**🔗 Repo:** 
 
 ### 🔒 Secure Authentication & Authorization System
 
 A reusable authentication module supporting **JWT, OAuth2, multi-factor authentication, and role-based access control**.
 **Tech:** Java Spring Security, JWT, OAuth2, MySQL, Docker
-**🔗 Repo:** *(add GitHub repo link)*
+**🔗 Repo:** 
 
 ## 📬 Connect With Me
 
