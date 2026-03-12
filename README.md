@@ -27,6 +27,8 @@ I'm a passionate **Software Engineer & Web Developer** with experience in **Java
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## 💻 Featured Complex Projects
+*([https://github.com/mouradzerbane](mouradzerbane/mouradzerbane.github.io))*
+(https://mouradzerbane.github.io/EasycomeApp))*
 
 ### 🌐 Enterprise Task Management System (Java Spring)
 
@@ -68,7 +70,7 @@ A reusable authentication module supporting **JWT, OAuth2, multi-factor authenti
 
 * 🌐 **LinkedIn:** *([https://www.linkedin.com/in/mourad-zerbane/](https://www.linkedin.com/in/mourad-zerbane/))*
 * 💼 **GitHub:** *([https://github.com/mouradzerbane](mouradzerbane/mouradzerbane.github.io))*
-* 📝 Portfolio Website: *([https://mouradzerbane.github.io/))*
+* 📝 Portfolio Website: *(https://mouradzerbane.github.io/)*
 
 ---
 
